@@ -1,0 +1,95 @@
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<radialGradient id="bgGrad" cx="50%" cy="45%" r="70%">
+<stop offset="0%" stop-color="#1e1b4b"/>
+<stop offset="60%" stop-color="#0f0a2e"/>
+<stop offset="100%" stop-color="#050314"/>
+</radialGradient>
+<radialGradient id="centerGrad" cx="50%" cy="40%" r="60%">
+<stop offset="0%" stop-color="#fde68a"/>
+<stop offset="100%" stop-color="#b45309"/>
+</radialGradient>
+<radialGradient id="goldGrad" cx="35%" cy="30%" r="70%">
+<stop offset="0%" stop-color="#fef3c7"/>
+<stop offset="100%" stop-color="#d97706"/>
+</radialGradient>
+<radialGradient id="silverGrad" cx="35%" cy="30%" r="70%">
+<stop offset="0%" stop-color="#f1f5f9"/>
+<stop offset="100%" stop-color="#94a3b8"/>
+</radialGradient>
+<radialGradient id="tealGrad" cx="35%" cy="30%" r="70%">
+<stop offset="0%" stop-color="#99f6e4"/>
+<stop offset="100%" stop-color="#0d9488"/>
+</radialGradient>
+<radialGradient id="pinkGrad" cx="35%" cy="30%" r="70%">
+<stop offset="0%" stop-color="#fbcfe8"/>
+<stop offset="100%" stop-color="#db2777"/>
+</radialGradient>
+<path id="ringA" fill="none" d="M 250,400 A 150,55 0 1,1 550,400 A 150,55 0 1,1 250,400"/>
+<path id="ringB" fill="none" d="M 170,400 A 230,85 0 1,1 630,400 A 230,85 0 1,1 170,400"/>
+<path id="ringC" fill="none" d="M 90,400 A 310,115 0 1,1 710,400 A 310,115 0 1,1 90,400"/>
+</defs>
+
+<rect x="0" y="0" width="800" height="800" fill="url(#bgGrad)"/>
+
+<g fill="#ffffff">
+<circle cx="120" cy="120" r="1.3" opacity="0.7"/>
+<circle cx="680" cy="90" r="1.6" opacity="0.6"/>
+<circle cx="90" cy="600" r="1.2" opacity="0.5"/>
+<circle cx="720" cy="640" r="1.5" opacity="0.7"/>
+<circle cx="60" cy="380" r="1.1" opacity="0.5"/>
+<circle cx="740" cy="380" r="1.4" opacity="0.6"/>
+<circle cx="400" cy="60" r="1.2" opacity="0.6"/>
+<circle cx="400" cy="740" r="1.3" opacity="0.5"/>
+</g>
+
+<use href="#ringA" stroke="#a5b4fc" stroke-width="1" opacity="0.28"/>
+<use href="#ringB" stroke="#a5b4fc" stroke-width="1" opacity="0.2"/>
+<use href="#ringC" stroke="#a5b4fc" stroke-width="1" opacity="0.14"/>
+
+<circle cx="400" cy="400" r="70" fill="url(#centerGrad)">
+<animate attributeName="r" values="66;74;66" dur="3s" repeatCount="indefinite"/>
+</circle>
+<text x="400" y="392" font-size="34" text-anchor="middle">🏆</text>
+<text x="400" y="425" font-size="12" font-weight="600" fill="#4a2e04" text-anchor="middle" letter-spacing="1.5">ACHIEVEMENTS</text>
+
+<g>
+<circle r="30" fill="url(#goldGrad)" stroke="#78350f" stroke-width="1"/>
+<text y="6" font-size="20" text-anchor="middle">🥇</text>
+<text y="46" font-size="12" font-weight="600" fill="#fde68a" text-anchor="middle">Promptwar</text>
+<text y="60" font-size="10" fill="#e5e7eb" text-anchor="middle">1st Rank – AI Prompting</text>
+<animateMotion dur="18s" repeatCount="indefinite" begin="0s" rotate="0"><mpath href="#ringA"/></animateMotion>
+</g>
+
+<g>
+<circle r="30" fill="url(#goldGrad)" stroke="#78350f" stroke-width="1"/>
+<text y="6" font-size="20" text-anchor="middle">🥇</text>
+<text y="46" font-size="12" font-weight="600" fill="#fde68a" text-anchor="middle">Datathone</text>
+<text y="60" font-size="10" fill="#e5e7eb" text-anchor="middle">1st Rank – Data Modeling</text>
+<animateMotion dur="18s" repeatCount="indefinite" begin="-9s" rotate="0"><mpath href="#ringA"/></animateMotion>
+</g>
+
+<g>
+<circle r="32" fill="url(#tealGrad)" stroke="#134e4a" stroke-width="1"/>
+<text y="7" font-size="21" text-anchor="middle">⭐</text>
+<text y="48" font-size="12" font-weight="600" fill="#99f6e4" text-anchor="middle">Rising Star</text>
+<text y="62" font-size="10" fill="#e5e7eb" text-anchor="middle">FIRST Tech Challenge</text>
+<animateMotion dur="26s" repeatCount="indefinite" begin="0s" rotate="0"><mpath href="#ringB"/></animateMotion>
+</g>
+
+<g>
+<circle r="32" fill="url(#silverGrad)" stroke="#475569" stroke-width="1"/>
+<text y="7" font-size="21" text-anchor="middle">🥈</text>
+<text y="48" font-size="12" font-weight="600" fill="#e2e8f0" text-anchor="middle">Nirmaan 3.0</text>
+<text y="62" font-size="10" fill="#e5e7eb" text-anchor="middle">1st Runner-Up</text>
+<animateMotion dur="26s" repeatCount="indefinite" begin="-13s" rotate="0"><mpath href="#ringB"/></animateMotion>
+</g>
+
+<g>
+<circle r="34" fill="url(#pinkGrad)" stroke="#831843" stroke-width="1"/>
+<text y="7" font-size="22" text-anchor="middle">🎯</text>
+<text y="50" font-size="12" font-weight="600" fill="#fbcfe8" text-anchor="middle">Velora 2026</text>
+<text y="64" font-size="10" fill="#e5e7eb" text-anchor="middle">Finalist</text>
+<animateMotion dur="34s" repeatCount="indefinite" begin="0s" rotate="0"><mpath href="#ringC"/></animateMotion>
+</g>
+</svg>
