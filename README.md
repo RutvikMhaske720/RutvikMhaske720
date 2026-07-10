@@ -113,75 +113,13 @@ exploring: [Cross-chain dApps, Multi-Agent Orchestration]
 
 ---
 
-## 🚀 Projects
-
-### 🗳️ SecureVote — Blockchain-Based EVM Voting System
-`Blockchain` `MetaMask` `FastAPI` `Supabase` — *May 2026*
-- Engineered a tamper-proof digital election platform on the Ethereum Virtual Machine
-- Integrated MetaMask authentication + Ganache blockchain for real-time vote verification
-- Deployed smart contracts orchestrating decentralized data flow via Supabase
-
-📎 `view code`
-
----
-
-### 🌾 Gramseva — Smart Rural Ecosystem Management
-`MERN` `Flutter` `Firebase` — *May 2026*
-- Connected farmers and gram panchayats to streamline administrative workflows
-- Built responsive web + Android interfaces in Dart, synced with Google Weather APIs
-- Powered dynamic Flutter UI with a scalable Node.js backend
-
-📎 `view code`
-
----
-
-### 🎨 Artisan E-Commerce — Global Handmade Art Marketplace
-`MERN` `Supabase` `Gemini API` — *May 2026*
-- Built an inclusive gateway for artisans to showcase handmade crafts globally
-- Added audio-recognition pipelines + LLMs for platform accessibility
-- Automated product descriptions via Gemini API integration
-
-📎 `view code`
-
----
-
-### 🏗️ Sanrachna — AI-Powered Architecture Framework Builder
-`MERN` `Node.js` `MongoDB` — *Mar 2026*
-- Designed an intelligent architecture-generation tool using system prompting
-- Combined efficient Node.js processing with dynamic MongoDB data management
-- Exposed RESTful endpoints for architecture retrieval, edits & dynamic rendering
-
-📎 `view code`
-
----
-
-### ♿ Anvaya — Digital Learning Platform for Differently Abled
-`FastAPI` `JavaScript` `Tailwind` — *Feb 2026*
-- Built adaptive, interactive interfaces for differently-abled learners
-- Delivered personalized AI tutoring via OpenRouter API inside FastAPI
-
-📎 `view code`
-
----
-
-### 🚑 Knight Rider Circuit for Ambulance
-`555 Timer` `4017 Decade Counter IC` — *Dec 2026*
-- Constructed a sequential emergency lighting circuit with an astable 555 Timer
-- Programmed zero-code pulse generation via 4017 Decade Counter IC for sync
-
----
 
 ## 🏆 Experience & Honors
-<p align="center">
-  <img src="./assets/achievements-orbit.svg" width="500"/>
-</p>
-| 🏅 | Achievement |
-|---|---|
-| 🥇 | **1st Rank** — Promptwar (Advanced AI System Prompting) |
-| 🥇 | **1st Rank** — Datathone (Data-Driven Modeling & Analytics) |
-| ⭐ | **Rising Star Award** — FIRST Tech Challenge (Hardware Innovation) |
-| 🥈 | **1st Runner-Up** — Nirmaan 3.0 (Decentralized Tech Platform) |
-| 🎯 | **Finalist** — Velora 2026 (Project Architecture & Technical Depth) |
+<div>
+  <img align="left" src="./achievements-orbit.svg" width="48%" alt="Achievements" />
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="48%" alt="Coding animation" />
+</div>
+<br clear="all" />
 
 ## 📜 Certifications
 
@@ -216,12 +154,11 @@ class Rutvik_Journey {
 ```
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" width="48%"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=RutvikMhaske720&show_icons=true&theme=radical&hide_border=true" width="58%" alt="GitHub Stats" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RutvikMhaske720&theme=radical&hide_border=true" width="1008%" alt="GitHub Streak" />
 </p>
 
 ---
