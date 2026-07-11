@@ -1,9 +1,8 @@
-
 <div align="center">
 
 <table>
 <tr>
-<td width="500">
+<td width="450">
 
 ```
 #######+++*###+==*###########*****#%%%##############################+====*####*+##########
@@ -59,13 +58,14 @@
 </td>
 <td>
 
-<img width="500" src="https://capsule-render.vercel.app/api?type=venom&color=0:EF4444,100:6366F1&height=280&section=header&text=Hi,%20I'm%20Rutvik&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Full-Stack%20+%20AI%20+%20Blockchain&descAlignY=55&descSize=22"/>
+<img width="600" src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,100:6366F1&height=350&section=header&text=Hi,%20I'm%20Rutvik&fontSize=115&fontColor=ffffff&animation=fadeIn&fontAlignY=35&stroke=000000&strokeWidth=1&desc=Software%20Developer%20|%20Full-Stack%20&descAlignY=62&descSize=56"/>
 
 </td>
 </tr>
 </table>
 
 </div>
+
 
 
 
