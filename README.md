@@ -166,8 +166,8 @@ exploring: [Cross-chain dApps, Multi-Agent Orchestration]
 ### 🖼️ Tech Visualization
 
 <p>
-<img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,dart" height="45"/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,mongodb,docker,git,firebase,flutter,solidity" height="45"/>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,dart,go,tailwindcss,linux" height="45"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,fastapi,mongodb,postgresql,supabase,docker,git,firebase,flutter,solidity,nextjs" height="45"/>
 </p>
 <p>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
